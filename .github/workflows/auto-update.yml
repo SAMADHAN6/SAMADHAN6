@@ -1,0 +1,22 @@
+name: Auto Update Terminal
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Update Terminal
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: liamg/github-profile-terminal-action@main
+        with:
+          theme: dark
+          token: ${{ secrets.GITHUB_TOKEN }}
