@@ -1,38 +1,30 @@
-![Terminal Profile](os.gif)
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=samadhan6" alt="samadhan6" />
-</a>
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadhan6" alt="samadhan6" /></a> </p>
-
-- 🌱 I’m currently learning **DevOps , ML , Stats**
-
-- 📫 How to reach me **samadhanpatil123789@gmail.com**
-
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samadhan-k-8a6bb8291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samadhan-k-8a6bb8291/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"
-       alt="godot"
-       width="40"
-       height="40"/>
-</a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+![gifOS](os.gif)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SAMADHAN6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SAMADHAN6" /></a><a href="https://ko-fi.com/SAMADHAN6"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SAMADHAN6" /></a></p><br><br>
+---
+
+## Popular Repositories
+<table>
+<tr><td><a href="https://github.com/SAMADHAN6/SAMADHAN6">SAMADHAN6</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/Collage_Placement_Portal">Collage_Placement_Portal</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/College_Admission_Agent">College_Admission_Agent</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/DOC_GENERATOR">DOC_GENERATOR</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/VG_sales_dashboard">VG_sales_dashboard</a></td><td>The Video Game Sales Analysis Dashboard is a comprehensive Business Intelligence (BI) project designed to explore, analyze, and visualize global video game sales data spanning from 1980 to 2016. The project leverages the VGChartz dataset, which contains over 16,500 game records across multiple platforms, genres, publishers, and geographic regions.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/java">java</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/hehe">hehe</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/computer-graphic">computer-graphic</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/Bit_Busters_TaskHive">Bit_Busters_TaskHive</a></td><td>TaskHive – A real-time collaborative AI platform where multiple specialized agents work together like a human team. Features include animated agent avatars, live chat, workflow visualization, and PDF reports. Built with React, FastAPI, WebSockets, and LangChain for enterprise-ready AI teamwork.</td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/spacerocket">spacerocket</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/EDS">EDS</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/MANIM">MANIM</a></td><td>ALL code about manim python </td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/portfolio">portfolio</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/portfolio-sam">portfolio-sam</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/vertx-bankapp">vertx-bankapp</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/demo">demo</a></td><td>learning git </td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/localrepo">localrepo</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+<tr><td><a href="https://github.com/SAMADHAN6/test">test</a></td><td></td><td align="center" width="12%">0 :star:</td></tr>
+</table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samadhan6&show_icons=true&locale=en&layout=compact" alt="samadhan6" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samadhan6&show_icons=true&locale=en" alt="samadhan6" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samadhan6&" alt="samadhan6" /></p>
+<sub><i>Automatically generated by [liamg/github-profile-terminal-action](https://github.com/liamg/github-profile-terminal-action) at Mon, 20 Jul 2026 18:30:27 UTC</i></sub>
