@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm SAMADHAN</h1>
 <h3 align="center">Fascinated by computers, driven by code</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadhan6" alt="samadhan6" /></a> </p>
+
 🌱 I’m currently learning DevOps , ML , Stats
 📫 How to reach me ravanpatil34@gmail.com
 <h3 align="left">Connect with me:</h3>
