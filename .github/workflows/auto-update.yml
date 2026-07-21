@@ -1,22 +1,47 @@
-name: auto-update
+name: Auto Update Terminal Profile
 
 on:
+  # Allows manual execution from GitHub Actions
   workflow_dispatch:
+
+  # Automatically execute every 10 minutes
   schedule:
-    - cron: "0 1,5,9,13,17,21 * * *"
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
 
 jobs:
   build:
-    name: auto update
+    name: Generate Terminal Profile
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
 
-      - uses: liamg/github-profile-terminal-action@main
+      # Checkout your GitHub profile repository
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v4
+
+      # Run YOUR customized terminal generator
+      - name: Generate Terminal GIF
+        uses: SAMADHAN6/github-profile-terminal-action@main
         with:
           theme: dark
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Check if os.gif changed
+      - name: Check Generated Files
+        run: |
+          git status
+
+      # Commit and push the newly generated os.gif
+      - name: Commit Updated Terminal GIF
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add os.gif
+
+          git diff --cached --quiet || git commit -m "Update terminal profile"
+
+          git push
